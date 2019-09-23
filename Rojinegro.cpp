@@ -519,7 +519,7 @@ int main() {
 
 		int arr[tamArreglo];
 
-		//srand((unsigned)time(0));
+		srand((unsigned)time(0));
 
 		for (int cont = 0; cont < tamArreglo; cont++) {
 
